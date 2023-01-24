@@ -6,5 +6,5 @@ Les calls API sont réalisés avec axios, j'ai eu quelque soucis pour venir mapp
 J'ai d'abord essayer avec la fonction JSON.stringify(languages) maintenant celle ci me donner également les clés j'ai perdu assez de temps sur cette fonctionnalité.
 
 
-Je pense que par la suite trier les pays par ces languages n'aurait pas poser de soucis, en récupérant la valeur dans l'input text et a un call api axios '/lang/{lang} puis display facilement et uniquement les pays demandés.
+Je pense que par la suite trier les pays par ces languages n'aurait pas poser de soucis, en récupérant la valeur dans l'input text et avec un call api axios '/lang/{lang} puis display facilement et uniquement les pays demandés.
 
